@@ -1,7 +1,7 @@
 url: https://api.thecircleapp.in
-status: up
-code: 200
-responseTime: 1810
-lastUpdated: 2021-04-09T23:18:34.258Z
+status: down
+code: 502
+responseTime: 927
+lastUpdated: 2021-04-10T09:00:04.725Z
 startTime: Wed Mar 31 2021 08:26:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
