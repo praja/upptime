@@ -4,17 +4,17 @@
     "url": "https://api.thecircleapp.in",
     "icon": "https://favicons.githubusercontent.com/api.thecircleapp.in",
     "slug": "api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1794,
-    "timeDay": 2345,
-    "timeWeek": 1790,
-    "timeMonth": 1677,
-    "timeYear": 1794,
+    "time": 1786,
+    "timeDay": 2166,
+    "timeWeek": 1736,
+    "timeMonth": 1661,
+    "timeYear": 1786,
     "dailyMinutesDown": {}
   }
 ]
